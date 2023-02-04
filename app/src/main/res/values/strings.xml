@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Valentine</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">My Starboy</string>
+    <string name="second_fragment_label">To the Moon and back</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="memories"> Memories</string>
+    <string name= "button"> I am too busy being yours to fall for somebody new.</string>
+
+    <string name="hello_first_fragment">Happy valentines baby:)</string>
+    <string name="hello_second_fragment">I love you, endlessly. This is just a nerdy way to say it:)</string>
+</resources>
